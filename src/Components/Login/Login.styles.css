@@ -1,0 +1,16 @@
+.login-container{
+    height: 300px;
+    align-items: center;
+    border: 2px solid black;
+    width: 50%;
+    margin: 10%;
+}
+
+#login{
+  margin-top: 5%;
+  margin-left: 50%;
+}
+
+#button{
+    margin: 10px;
+}
